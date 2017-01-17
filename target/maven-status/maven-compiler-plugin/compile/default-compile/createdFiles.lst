@@ -1,0 +1,8 @@
+com/model/SolrSearch.class
+com/controller/SearchCategory.class
+com/model/RedisSession.class
+com/dao/Product.class
+com/controller/Search.class
+com/controller/Filter.class
+com/model/CassandraSession.class
+com/controller/SearchProduct.class
