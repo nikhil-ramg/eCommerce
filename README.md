@@ -26,6 +26,7 @@ Clicking on the Thriller category:
 
 ![promisechains](https://github.com/nikhil-ramg/eCommerce/blob/master/images/Picture5.png?raw=true)
 
+Clicking on the Romance category:
 
 ![promisechains](https://github.com/nikhil-ramg/eCommerce/blob/master/images/Picture6.png?raw=true)
 
