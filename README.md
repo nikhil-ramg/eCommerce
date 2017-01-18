@@ -3,7 +3,7 @@ This project is an implementation of Ecommerce website with big data technologie
 
 Architecure
 
-![Alt text](/eCommerce/images/Picture1.png?raw=true "Picture1")
+https://github.com/nikhil-ramg/eCommerce/blob/master/images/Picture1.png?raw=true
 
 Web Application - Home Page
 
