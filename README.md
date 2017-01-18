@@ -3,6 +3,8 @@ This project is an implementation of Ecommerce website with big data technologie
 
 Architecure
 
+![Alt text](/relative/path/to/Picture1.png?raw=true "Picture1")
+
 Web Application - Home Page
 
 Solr Search
