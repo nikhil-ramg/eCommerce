@@ -13,7 +13,7 @@ Home page of the book store:
 
 Solr Search
 
-When the book Harry is searched for: 
+When the word Harry is searched for: 
 
 ![promisechains](https://github.com/nikhil-ramg/eCommerce/blob/master/images/Picture3.png?raw=true)
 
