@@ -3,7 +3,7 @@ This project is an implementation of Ecommerce website with big data technologie
 
 Architecure
 
-https://github.com/nikhil-ramg/eCommerce/blob/master/images/Picture1.png?raw=true
+![promisechains](https://github.com/nikhil-ramg/eCommerce/blob/master/images/Picture1.png?raw=true)
 
 Web Application - Home Page
 
